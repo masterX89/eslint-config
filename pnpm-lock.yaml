@@ -58,12 +58,14 @@ importers:
   packages/vue-test:
     specifiers:
       '@vitejs/plugin-vue': ^2.3.3
+      typescript: ^4.7.4
       vite: ^2.9.9
       vue: ^3.2.25
     dependencies:
       vue: 3.2.37
     devDependencies:
       '@vitejs/plugin-vue': 2.3.3_vite@2.9.14+vue@3.2.37
+      typescript: 4.7.4
       vite: 2.9.14
 
 packages:
