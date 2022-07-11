@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "vue-tsc --noEmit && vite build",
     "preview": "vite preview"
   },
   "dependencies": {
@@ -13,7 +13,8 @@
   "devDependencies": {
     "@vitejs/plugin-vue": "^2.3.3",
     "@xhksun/eslint-config-vue": "workspace:*",
-    "typescript": "^4.7.4",
-    "vite": "^2.9.9"
+    "typescript": "^4.5.4",
+    "vite": "^2.9.9",
+    "vue-tsc": "^0.34.7"
   }
 }
