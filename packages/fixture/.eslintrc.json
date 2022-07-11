@@ -1,6 +1,4 @@
 {
-  "extends": ["eslint:recommended", "plugin:@typescript-eslint/recommended"],
-  "rules": {
-    "no-console": "error"
-  }
+  "extends": ["@xhksun/eslint-config-basic"],
+  "rules": {}
 }

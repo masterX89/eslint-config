@@ -2,13 +2,14 @@
   "name": "@xhksun/eslint-config-monorepo",
   "version": "0.0.0",
   "private": true,
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "description": "",
+  "author": "Hank Xia",
+  "license": "MIT",
   "keywords": [
     "eslint",
     "eslint-config"
   ],
-  "author": "Hank Xia",
-  "license": "MIT"
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
