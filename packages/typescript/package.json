@@ -1,0 +1,25 @@
+{
+  "name": "@xhksun/eslint-config-ts",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "keywords": [
+    "eslint-config"
+  ],
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "peerDependencies": {
+    "eslint": ">=7.4.0",
+    "typescript": ">=3.9"
+  },
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.26.0",
+    "@typescript-eslint/parser": "^5.26.0",
+    "@xhksun/eslint-config-basic": "workspace:*"
+  },
+  "devDependencies": {
+    "eslint": "^8.16.0"
+  }
+}
