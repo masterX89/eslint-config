@@ -1,7 +1,7 @@
 {
   "name": "vue-test",
-  "private": true,
   "version": "0.0.0",
+  "private": true,
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -12,6 +12,7 @@
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^2.3.3",
+    "@xhksun/eslint-config-vue": "workspace:*",
     "typescript": "^4.7.4",
     "vite": "^2.9.9"
   }
