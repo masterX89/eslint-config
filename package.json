@@ -11,5 +11,10 @@
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "bumpp": "^8.2.1",
+    "eslint": "^8.16.0",
+    "typescript": "^4.7.4"
   }
 }
