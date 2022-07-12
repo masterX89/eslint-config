@@ -1,6 +1,6 @@
 {
   "name": "@xhksun/eslint-config",
-  "version": "0.0.0",
+  "version": "0.0.1-beta.0",
   "description": "xhksun's ESLint config",
   "author": "Hank Xia",
   "license": "MIT",
