@@ -9,7 +9,7 @@ Fork [antfu/eslint-config](https://github.com/antfu/eslint-config). The followin
 - Sorted imports, dangling commas for cleaner commit diff
 - Reasonable defaults, best practices, only one-line of config
 
-But change the preset
+But change these following preset
 
 - no-semi in Vue
 - semi in React
@@ -19,15 +19,33 @@ But change the preset
 
 ### Install
 
+#### Vue
+
 ```bash
-pnpm add -D eslint @xhksun/eslint-config
+pnpm add -D eslint @xhksun/eslint-config-vue
+```
+
+#### React
+
+```bash
+pnpm add -D eslint @xhksun/eslint-config-react
 ```
 
 ### Config `.eslintrc`
 
+#### Vue
+
 ```json
 {
-  "extends": "@xhksun"
+  "extends": "@xhksun/eslint-config-vue"
+}
+```
+
+#### React
+
+```json
+{
+  "extends": "@xhksun/eslint-config-react"
 }
 ```
 

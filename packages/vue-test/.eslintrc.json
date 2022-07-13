@@ -1,4 +1,0 @@
-{
-  "extends": ["@xhksun/eslint-config-vue"],
-  "rules": {}
-}
