@@ -1,6 +1,6 @@
 # @xhksun/eslint-config
 
-Fork [antfu/eslint-config](https://github.com/antfu/eslint-config). The following is the same as Antfu's eslint-config
+Fork [antfu/eslint-config](https://github.com/antfu/eslint-config) and [sudongyuer/eslint-config](https://github.com/sudongyuer/eslint-config). The following is the same as Antfu's eslint-config. If you want to learn more about eslint, you can read the [sudongyuer/learn-eslint](https://github.com/sudongyuer/learn-eslint)
 
 - Single quotes
 - Auto fix for formatting (aimed to be used standalone without Prettier)
