@@ -1,6 +1,5 @@
 {
   "name": "react-test",
-  "version": "0.0.1-beta.0",
   "private": true,
   "scripts": {
     "dev": "vite",
@@ -16,7 +15,7 @@
     "@types/react": "^18.0.28",
     "@types/react-dom": "^18.0.11",
     "@vitejs/plugin-react": "^3.1.0",
-    "@xhksun/eslint-config-react": "0.0.1-beta.1",
+    "@xhksun/eslint-config-react": "*",
     "typescript": "^4.9.5",
     "vite": "^4.1.1"
   }
