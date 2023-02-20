@@ -1,6 +1,5 @@
 {
   "name": "vue-test",
-  "version": "0.0.1-beta.0",
   "private": true,
   "scripts": {
     "dev": "vite",
